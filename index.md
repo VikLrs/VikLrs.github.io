@@ -16,6 +16,10 @@ I am especially interested in how languages change over time and how phonetic an
 
 My email address is suvi.kivimaa@helsinki.fi. 
 
+## Curriculum Vitae
+
+[Download my CV (PDF)](assets/documents/Suvi_Kivimaa_CV.pdf)
+
 ## Courses I've Taken
 
 - [Phonetics and Phonology](https://studies.helsinki.fi/kurssit/opintojakso/otm-95ec052e-4687-4322-a53d-0abf4b9c303d), fall 2025
@@ -29,8 +33,7 @@ My email address is suvi.kivimaa@helsinki.fi.
 
 ## Projects
 
-- [Command Line Tools for Linguists](https://github.com/VikLrs/cmdline-course) — A course project involving command-line tools, text processing, and version control with Git.
-
+- [Command Line Tools for Linguists](https://github.com/VikLrs/cmdline-course) — A course project involving command-line tools, text processing and version control with Git.
 - [Topic Modelling of Pompeian Wall Inscriptions](https://github.com/VikLrs/Topic-Modelling-of-Pompeian-Wall-Inscriptions) — A computational text analysis project exploring topic modelling using Pompeian wall inscriptions.
 
 ## Misc. 
